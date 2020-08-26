@@ -1,3 +1,7 @@
+/*
+  Code written by Rasmus Lauridsen, 26-8-2020
+*/
+
 Table table;
 int rowCount, columnCount;
 
